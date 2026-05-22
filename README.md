@@ -1,6 +1,6 @@
-# 🖥️ SysMon11 – Windows 11 System Monitor Widget
+# 🖥️ CPU & mem – Windows 11 System Monitor Widget
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/SysMon11?style=social)](https://github.com/yourusername/SysMon11)
+[![GitHub stars](https://github.com/Gauravxo/CPU_mem_cleaner.git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Windows](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?logo=windows)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)](https://python.org)
@@ -9,7 +9,7 @@
 
 No console. No clutter. Just pure system awareness at a glance.  
 
-![SysMon11 Screenshot](CPU_MEM) 
+![CPU & mem](CPU_MEM) 
 
 ---
 
@@ -63,11 +63,7 @@ No console. No clutter. Just pure system awareness at a glance.
 
 | Dashboard | Network Details |
 |-----------|-----------------|
-| ![Main View](screenshots/main.png) | ![Network Tab](screenshots/network.png) |
-
-| Privacy Indicators | Clean & Boost |
-|--------------------|---------------|
-| ![Camera/Mic/Location](screenshots/devices.png) | ![Operations](screenshots/clean.png) |
+| ![Main View](https://github.com/Gauravxo/CPU_mem_cleaner/blob/main/CPU_MEM.png 
 
 ---
 
@@ -83,6 +79,6 @@ No console. No clutter. Just pure system awareness at a glance.
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/SysMon11.git
-cd CPU_mem
+https://github.com/Gauravxo/CPU_mem_cleaner.git
+cd CPU_mem_cleaner
 pip install -r requirements.txt
