@@ -1,6 +1,5 @@
 # 🖥️ CPU & mem – Windows 11 System Monitor Widget
 
-[![GitHub stars](https://github.com/Gauravxo/CPU_mem_cleaner.git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Windows](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?logo=windows)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)](https://python.org)
@@ -9,7 +8,6 @@
 
 No console. No clutter. Just pure system awareness at a glance.  
 
-![CPU & mem](CPU_MEM) 
 
 ---
 
@@ -63,7 +61,7 @@ No console. No clutter. Just pure system awareness at a glance.
 
 | Dashboard | Network Details |
 |-----------|-----------------|
-| ![Main View](https://github.com/Gauravxo/CPU_mem_cleaner/blob/main/CPU_MEM.png 
+| ![Main View](https://github.com/Gauravxo/CPU_mem_cleaner/blob/main/CPU_MEM.png) 
 
 ---
 
