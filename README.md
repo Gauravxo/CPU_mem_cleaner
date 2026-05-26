@@ -59,7 +59,7 @@ No console. No clutter. Just pure system awareness at a glance.
 
 ## 📸 Screenshots
 
-| Dashboard | Network Details |
+| Dashboard |
 |-----------|-----------------|
 | ![Main View](https://github.com/Gauravxo/CPU_mem_cleaner/blob/main/CPU_MEM.png) 
 
